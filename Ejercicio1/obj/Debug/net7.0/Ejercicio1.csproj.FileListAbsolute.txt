@@ -1,0 +1,14 @@
+D:\Fund_Algoritmos\Practica04\Ejercicio1\Ejercicio1\bin\Debug\net7.0\Ejercicio1.exe
+D:\Fund_Algoritmos\Practica04\Ejercicio1\Ejercicio1\bin\Debug\net7.0\Ejercicio1.deps.json
+D:\Fund_Algoritmos\Practica04\Ejercicio1\Ejercicio1\bin\Debug\net7.0\Ejercicio1.runtimeconfig.json
+D:\Fund_Algoritmos\Practica04\Ejercicio1\Ejercicio1\bin\Debug\net7.0\Ejercicio1.dll
+D:\Fund_Algoritmos\Practica04\Ejercicio1\Ejercicio1\bin\Debug\net7.0\Ejercicio1.pdb
+D:\Fund_Algoritmos\Practica04\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fund_Algoritmos\Practica04\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.AssemblyInfoInputs.cache
+D:\Fund_Algoritmos\Practica04\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.AssemblyInfo.cs
+D:\Fund_Algoritmos\Practica04\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\Fund_Algoritmos\Practica04\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.dll
+D:\Fund_Algoritmos\Practica04\Ejercicio1\Ejercicio1\obj\Debug\net7.0\refint\Ejercicio1.dll
+D:\Fund_Algoritmos\Practica04\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.pdb
+D:\Fund_Algoritmos\Practica04\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.genruntimeconfig.cache
+D:\Fund_Algoritmos\Practica04\Ejercicio1\Ejercicio1\obj\Debug\net7.0\ref\Ejercicio1.dll
